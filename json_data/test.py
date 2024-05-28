@@ -15,5 +15,9 @@ for message in messages:
         date_str = dt.strftime("%Y-%m-%d %H:%M:%S")
 
     text = message['text']
+    for record in text:
+        if type(record) == dict and record.get("type") == 'bold':
+            main_record = record.get("text")
+        elif type(record) == dict and record.get("type") == 'hashtag':
+            hashtag = record.get("hashtag").replace('#', '')
 
-    
