@@ -12,6 +12,7 @@ messages = data["messages"]
 
 with open('result.csv', mode='a', newline='', encoding='utf-8') as f:
     for message in messages:
+        hashtag = ''
         date_str = message['date']
         if date_str is not None:
             dt = datetime.fromisoformat(date_str)
