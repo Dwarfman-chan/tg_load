@@ -39,9 +39,10 @@ with open('result.csv', mode='a', newline='', encoding='utf-8') as f:
                     elif ' Загроза артобстрілу!\nЗараз у ' in main_record:
                         oblast = main_record.split(' Загроза артобстрілу!\nЗараз у ')[-1]
                         print(oblast)
-
+            
             elif type(record) == dict and record.get("type") == 'hashtag':
                 hashtag = record.get("text").replace('#', '')
+            print(main_record)
             
         row = [date_str, is_alert, oblast, hashtag]
         writer = csv.writer(f, delimiter='|')
