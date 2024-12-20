@@ -1,0 +1,191 @@
+2024-12-20 12:18:07,440 - ERROR - Сайт: https://krystalic.com.ua/, Ошибка: Cannot connect to host krystalic.com.ua:443 ssl:False [getaddrinfo failed], Тип ошибки: ClientConnectorDNSError
+2024-12-20 12:18:07,701 - ERROR - Сайт: https://coffeeagent.com.ua/, Ошибка: Cannot connect to host coffeeagent.com.ua:443 ssl:False [Удаленный компьютер отклонил это сетевое подключение], Тип ошибки: ClientConnectorError
+2024-12-20 12:18:12,225 - ERROR - Сайт: https://pitahouse.com.ua/, Ошибка: Cannot connect to host pitahouse.com.ua:443 ssl:False [getaddrinfo failed], Тип ошибки: ClientConnectorDNSError
+2024-12-20 12:18:23,508 - ERROR - Сайт: https://medisport.com.ua, Ошибка: 'utf-8' codec can't decode byte 0xd1 in position 34562: invalid continuation byte, Тип ошибки: UnicodeDecodeError
+2024-12-20 12:18:25,306 - ERROR - Сайт: https://www.water com.ua, Ошибка: Cannot connect to host www.water com.ua:443 ssl:False [getaddrinfo failed], Тип ошибки: ClientConnectorDNSError
+2024-12-20 12:18:26,655 - ERROR - Сайт: https://kpi-print.com.ua, Ошибка: 'utf-8' codec can't decode byte 0xd1 in position 263647: invalid continuation byte, Тип ошибки: UnicodeDecodeError
+2024-12-20 12:18:34,469 - ERROR - Сайт: https://my.ukr.business/, Ошибка: Cannot connect to host my.ukr.business:443 ssl:False [Превышен таймаут семафора], Тип ошибки: ClientConnectorError
+2024-12-20 12:18:42,628 - ERROR - Сайт: https://undersea.ua/ukr/vip, Ошибка: 'utf-8' codec can't decode byte 0xe4 in position 1243: invalid continuation byte, Тип ошибки: UnicodeDecodeError
+2024-12-20 12:18:42,648 - ERROR - Сайт: https://apiprint.com.ua/, Ошибка: Cannot connect to host apiprint.com.ua:443 ssl:False [getaddrinfo failed], Тип ошибки: ClientConnectorDNSError
+2024-12-20 12:18:47,739 - ERROR - Сайт: https://kpi-print.com.ua/, Ошибка: 'utf-8' codec can't decode byte 0xd1 in position 263647: invalid continuation byte, Тип ошибки: UnicodeDecodeError
+2024-12-20 12:18:47,740 - ERROR - Сайт: https://jkbeauty.com.ua/?post_type=product, Ошибка: Response payload is not completed: <TransferEncodingError: 400, message='Not enough data for satisfy transfer length header.'>. ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None), Тип ошибки: ClientPayloadError
+2024-12-20 12:19:02,802 - ERROR - Сайт: https://www.ozyteka.com, Ошибка: Cannot connect to host www.ozyteka.com:443 ssl:False [Превышен таймаут семафора], Тип ошибки: ClientConnectorError
+2024-12-20 12:19:03,469 - ERROR - Сайт: https://dacha.zp.ua, Ошибка: Cannot connect to host dacha.zp.ua:443 ssl:False [Превышен таймаут семафора], Тип ошибки: ClientConnectorError
+2024-12-20 12:19:04,339 - ERROR - Сайт: https://menu.iriyspace.com/, Ошибка: Cannot connect to host menu.iriyspace.com:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:19:08,168 - ERROR - Сайт: https://new.book.ua/, Ошибка: Cannot connect to host new.book.ua:443 ssl:False [getaddrinfo failed], Тип ошибки: ClientConnectorDNSError
+2024-12-20 12:19:08,940 - ERROR - Сайт: https://conf.ipo.kiev.ua, Ошибка: Cannot connect to host conf.ipo.kiev.ua:443 ssl:False [getaddrinfo failed], Тип ошибки: ClientConnectorDNSError
+2024-12-20 12:19:09,394 - ERROR - Сайт: https://www.support-360.com/, Ошибка: [WinError 64] Указанное сетевое имя более недоступно, Тип ошибки: ClientOSError
+2024-12-20 12:19:10,301 - ERROR - Сайт: https://sunshine.cn.ua/, Ошибка: Cannot connect to host sunshine.cn.ua:443 ssl:False [Превышен таймаут семафора], Тип ошибки: ClientConnectorError
+2024-12-20 12:19:12,129 - ERROR - Сайт: https://garvis.com.ua/, Ошибка: 'utf-8' codec can't decode byte 0xd1 in position 178548: invalid continuation byte, Тип ошибки: UnicodeDecodeError
+2024-12-20 12:19:13,662 - ERROR - Сайт: https://vipuskniy.com/, Ошибка: Cannot connect to host vipuskniy.com:443 ssl:False [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1002)], Тип ошибки: ClientConnectorSSLError
+2024-12-20 12:19:17,532 - ERROR - Сайт: https://c5homedecor.com/, Ошибка: Cannot connect to host c5homedecor.com:443 ssl:False [Удаленный хост принудительно разорвал существующее подключение], Тип ошибки: ClientConnectorError
+2024-12-20 12:19:20,123 - ERROR - Сайт: https://patronservice.ua    https://prote.ua/ua/, Ошибка: Cannot connect to host patronservice.ua    https:443 ssl:False [getaddrinfo failed], Тип ошибки: ClientConnectorDNSError
+2024-12-20 12:19:22,651 - ERROR - Сайт: https://agressive-investor.com/, Ошибка: Response payload is not completed: <TransferEncodingError: 400, message='Not enough data for satisfy transfer length header.'>, Тип ошибки: ClientPayloadError
+2024-12-20 12:19:31,635 - ERROR - Сайт: https://arthouse.zp.ua, Ошибка: Cannot connect to host arthouse.zp.ua:443 ssl:False [Превышен таймаут семафора], Тип ошибки: ClientConnectorError
+2024-12-20 12:19:34,411 - ERROR - Сайт: https://puzia.ua/, Ошибка: Cannot connect to host puzia.ua:443 ssl:False [getaddrinfo failed], Тип ошибки: ClientConnectorDNSError
+2024-12-20 12:19:36,768 - ERROR - Сайт: https://center-magnitol.com.ua/, Ошибка: Cannot connect to host center-magnitol.com.ua:443 ssl:False [getaddrinfo failed], Тип ошибки: ClientConnectorDNSError
+2024-12-20 12:19:36,769 - ERROR - Сайт: http://oksana-orobets.com, Ошибка: Cannot connect to host oksana-orobets.com:80 ssl:False [getaddrinfo failed], Тип ошибки: ClientConnectorDNSError
+2024-12-20 12:19:39,552 - ERROR - Сайт: https://simvolika.com.ua, Ошибка: Cannot connect to host simvolika.com.ua:443 ssl:False [getaddrinfo failed], Тип ошибки: ClientConnectorDNSError
+2024-12-20 12:19:41,165 - ERROR - Сайт: https://satok.net.ua/, Ошибка: Cannot connect to host satok.net.ua:443 ssl:False [Превышен таймаут семафора], Тип ошибки: ClientConnectorError
+2024-12-20 12:19:41,166 - ERROR - Сайт: https://psyhology.com.ua/, Ошибка: Cannot connect to host psyhology.com.ua:443 ssl:False [Превышен таймаут семафора], Тип ошибки: ClientConnectorError
+2024-12-20 12:19:41,166 - ERROR - Сайт: https://irpinhearts.org.ua/want-help, Ошибка: Cannot connect to host irpinhearts.org.ua:443 ssl:False [Превышен таймаут семафора], Тип ошибки: ClientConnectorError
+2024-12-20 12:19:43,406 - ERROR - Сайт: https://podorozh.org/, Ошибка: Cannot connect to host podorozh.org:443 ssl:False [Превышен таймаут семафора], Тип ошибки: ClientConnectorError
+2024-12-20 12:19:44,103 - ERROR - Сайт: http://www.haistergin.com, Ошибка: Cannot connect to host www.haistergin.com:80 ssl:False [Превышен таймаут семафора], Тип ошибки: ClientConnectorError
+2024-12-20 12:19:44,508 - ERROR - Сайт: https://sunshine.org.ua, Ошибка: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte, Тип ошибки: UnicodeDecodeError
+2024-12-20 12:19:45,800 - ERROR - Сайт: https://ermolaeva-underwear.com/, Ошибка: Cannot connect to host ermolaeva-underwear.com:443 ssl:False [getaddrinfo failed], Тип ошибки: ClientConnectorDNSError
+2024-12-20 12:19:48,649 - ERROR - Сайт: https://prom.it-outlet.com.ua/, Ошибка: Cannot connect to host prom.it-outlet.com.ua:443 ssl:False [getaddrinfo failed], Тип ошибки: ClientConnectorDNSError
+2024-12-20 12:19:48,877 - ERROR - Сайт: https://harmonyinteriors.co.ua/our_services.html, Ошибка: 'utf-8' codec can't decode byte 0xd4 in position 254: invalid continuation byte, Тип ошибки: UnicodeDecodeError
+2024-12-20 12:19:49,394 - ERROR - Сайт: https://www.zdorova-voda.store, Ошибка: Cannot connect to host www.zdorova-voda.store:443 ssl:False [getaddrinfo failed], Тип ошибки: ClientConnectorDNSError
+2024-12-20 12:19:52,436 - ERROR - Сайт: https://kuznetsova.life/shop, Ошибка: Cannot connect to host kuznetsova.life:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:19:55,657 - ERROR - Сайт: https://nikolaos.com.ua, Ошибка: Cannot connect to host nikolaos.com.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:19:56,726 - ERROR - Сайт: https://ruzanova.store/uk/, Ошибка: Cannot connect to host ruzanova.store:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:02,322 - ERROR - Сайт: https://missdiamond.ua, Ошибка: Cannot connect to host missdiamond.ua:443 ssl:False [getaddrinfo failed], Тип ошибки: ClientConnectorDNSError
+2024-12-20 12:20:02,323 - ERROR - Сайт: https://dobrodar.org/, Ошибка: Cannot connect to host dobrodar.org:443 ssl:False [getaddrinfo failed], Тип ошибки: ClientConnectorDNSError
+2024-12-20 12:20:02,323 - ERROR - Сайт: https://kitsunia.postershop.me, Ошибка: Cannot connect to host kitsunia.postershop.me:443 ssl:False [getaddrinfo failed], Тип ошибки: ClientConnectorDNSError
+2024-12-20 12:20:04,034 - ERROR - Сайт: https://www.dostupunlimited.club, Ошибка: Cannot connect to host www.dostupunlimited.club:443 ssl:False [getaddrinfo failed], Тип ошибки: ClientConnectorDNSError
+2024-12-20 12:20:05,255 - ERROR - Сайт: https://new.com, Ошибка: Cannot connect to host new.com:443 ssl:False [Превышен таймаут семафора], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:13,550 - ERROR - Сайт: https://my_own.site.com, Ошибка: Cannot connect to host my_own.site.com:443 ssl:False [getaddrinfo failed], Тип ошибки: ClientConnectorDNSError
+2024-12-20 12:20:13,582 - ERROR - Сайт: https://manhattan-high-line.com.ua/contact/, Ошибка: Response payload is not completed: <TransferEncodingError: 400, message='Not enough data for satisfy transfer length header.'>, Тип ошибки: ClientPayloadError
+2024-12-20 12:20:21,172 - ERROR - Сайт: https://thereforma.pro/, Ошибка: Cannot connect to host thereforma.pro:443 ssl:False [getaddrinfo failed], Тип ошибки: ClientConnectorDNSError
+2024-12-20 12:20:21,254 - ERROR - Сайт: https://trenazhery.if.ua/, Ошибка: Cannot connect to host trenazhery.if.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:22,341 - ERROR - Сайт: https://esquisse.kr.ua/, Ошибка: Cannot connect to host esquisse.kr.ua:443 ssl:False [getaddrinfo failed], Тип ошибки: ClientConnectorDNSError
+2024-12-20 12:20:22,528 - ERROR - Сайт: https://wonderfull.coffee/, Ошибка: Cannot connect to host wonderfull.coffee:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:22,528 - ERROR - Сайт: https://mebelnij.site/, Ошибка: Cannot connect to host mebelnij.site:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:22,529 - ERROR - Сайт: https://likant.com.ua/, Ошибка: Cannot connect to host likant.com.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:22,529 - ERROR - Сайт: https://ankay.com.ua/, Ошибка: Cannot connect to host ankay.com.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:22,529 - ERROR - Сайт: https://www.instagram.com/lasergood.frankivsk/, Ошибка: Cannot connect to host www.instagram.com:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:22,530 - ERROR - Сайт: https://nakedlady.ua, Ошибка: Cannot connect to host nakedlady.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:22,530 - ERROR - Сайт: https://nashaidea.com/, Ошибка: Cannot connect to host nashaidea.com:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:22,530 - ERROR - Сайт: https://delete.ua/, Ошибка: Cannot connect to host delete.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:22,531 - ERROR - Сайт: https://www.instagram.com/dekor_kvity?igsh=MXVtM2p5b2hncW5keA==, Ошибка: Cannot connect to host www.instagram.com:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:22,531 - ERROR - Сайт: https://eurocomputer.com.ua, Ошибка: Cannot connect to host eurocomputer.com.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:22,531 - ERROR - Сайт: https://lekson.com.ua, Ошибка: Cannot connect to host lekson.com.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:22,532 - ERROR - Сайт: https://abramovacoach.com, Ошибка: Cannot connect to host abramovacoach.com:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:22,532 - ERROR - Сайт: https://lomohotel.com.ua/, Ошибка: Cannot connect to host lomohotel.com.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:22,532 - ERROR - Сайт: https://dvorik.ua/uk, Ошибка: Cannot connect to host dvorik.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:22,532 - ERROR - Сайт: https://jooki.com.ua/ua/, Ошибка: Cannot connect to host jooki.com.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:22,533 - ERROR - Сайт: https://vikont.dp.ua/ua, Ошибка: Cannot connect to host vikont.dp.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:22,533 - ERROR - Сайт: https://chizpizza.kh.ua/, Ошибка: Cannot connect to host chizpizza.kh.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:22,534 - ERROR - Сайт: https://sos-sgo.info/projects/%d0%bb%d1%96%d0%ba%d0%b0%d1%80%d0%bd%d1%8f-%d0%bc%d0%b8%d1%80%d0%bd%d0%be%d0%b3%d1%80%d0%b0%d0%b4-%d0%be%d1%80%d0%b8%d0%bd%d0%b8%d0%bd/, Ошибка: Cannot connect to host sos-sgo.info:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:22,534 - ERROR - Сайт: https://vodovorot.in.ua/, Ошибка: Cannot connect to host vodovorot.in.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:23,058 - ERROR - Сайт: https://www.together-ua.com/, Ошибка: Cannot connect to host www.together-ua.com:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:23,059 - ERROR - Сайт: https://vevi.com.ua, Ошибка: Cannot connect to host vevi.com.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:23,059 - ERROR - Сайт: https://vodocooler.com.ua/, Ошибка: Cannot connect to host vodocooler.com.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:23,059 - ERROR - Сайт: https://vevi.com.ua/, Ошибка: Cannot connect to host vevi.com.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:23,060 - ERROR - Сайт: https://medgroup.com.ua, Ошибка: Cannot connect to host medgroup.com.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:23,246 - ERROR - Сайт: https://makerzoid.fun/, Ошибка: Cannot connect to host makerzoid.fun:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:23,247 - ERROR - Сайт: https://www.instagram.com/xlab.aligners/, Ошибка: Cannot connect to host www.instagram.com:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:23,247 - ERROR - Сайт: https://pinsel-ar.com/, Ошибка: Cannot connect to host pinsel-ar.com:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:23,398 - ERROR - Сайт: https://mebli-dimarko.com/, Ошибка: Cannot connect to host mebli-dimarko.com:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:23,398 - ERROR - Сайт: https://avto.pro/, Ошибка: Cannot connect to host avto.pro:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:23,402 - ERROR - Сайт: https://insures.club/, Ошибка: Cannot connect to host insures.club:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:23,402 - ERROR - Сайт: https://boulevard.kiev.ua/shop, Ошибка: Cannot connect to host boulevard.kiev.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:23,404 - ERROR - Сайт: https://ochki.kiev.ua/, Ошибка: Cannot connect to host ochki.kiev.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:23,457 - ERROR - Сайт: https://moystroy.com.ua/, Ошибка: Cannot connect to host moystroy.com.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:23,458 - ERROR - Сайт: https://gollka.com/, Ошибка: Cannot connect to host gollka.com:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:23,458 - ERROR - Сайт: https://byrenka.com.ua, Ошибка: Cannot connect to host byrenka.com.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:23,459 - ERROR - Сайт: https://constanta.ua/, Ошибка: Cannot connect to host constanta.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:23,481 - ERROR - Сайт: https://beauty-trend.com.ua/, Ошибка: Cannot connect to host beauty-trend.com.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:23,481 - ERROR - Сайт: https://tuning-baza.ua/, Ошибка: Cannot connect to host tuning-baza.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:24,052 - ERROR - Сайт: https://www.spine-academy.com/, Ошибка: Cannot connect to host www.spine-academy.com:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:24,053 - ERROR - Сайт: https://www.instagram.com/momkey.official, Ошибка: Cannot connect to host www.instagram.com:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:24,110 - ERROR - Сайт: https://atlas.kh.ua/, Ошибка: Cannot connect to host atlas.kh.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:24,111 - ERROR - Сайт: https://pacifist.com.ua/index.php?route=product/category&path=1_3, Ошибка: Cannot connect to host pacifist.com.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:24,158 - ERROR - Сайт: https://avto.pro, Ошибка: Cannot connect to host avto.pro:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:25,815 - ERROR - Сайт: https://protanci.studio/, Ошибка: Cannot connect to host protanci.studio:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:26,668 - ERROR - Сайт: https://boost.house/ua/, Ошибка: Cannot connect to host boost.house:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:26,901 - ERROR - Сайт: https://flipper.shop, Ошибка: Cannot connect to host flipper.shop:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:32,971 - ERROR - Сайт: https://evapuzzle.prom.ua/, Ошибка: Cannot connect to host evapuzzle.prom.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:33,400 - ERROR - Сайт: https://prodavashka.com.ua, Ошибка: Cannot connect to host prodavashka.com.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:35,554 - ERROR - Сайт: https://kiosks.printhub.io/en/kiosks-home/order-printing-online/novoyarivsk-print-copy-center-lvivska/, Ошибка: Cannot connect to host kiosks.printhub.io:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:36,836 - ERROR - Сайт: https://luxoptica.ua/, Ошибка: 'utf-8' codec can't decode byte 0xc8 in position 243212: invalid continuation byte, Тип ошибки: UnicodeDecodeError
+2024-12-20 12:20:37,246 - ERROR - Сайт: https://WWW.WISEBEE.COM.UA, Ошибка: Cannot connect to host www.wisebee.com.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:37,764 - ERROR - Сайт: https://ansiboutique.com/, Ошибка: 'utf-8' codec can't decode byte 0xcf in position 18731: invalid continuation byte, Тип ошибки: UnicodeDecodeError
+2024-12-20 12:20:41,984 - ERROR - Сайт: https://sudreporter.org/, Ошибка: Cannot connect to host sudreporter.org:443 ssl:False [Превышен таймаут семафора], Тип ошибки: ClientConnectorError
+2024-12-20 12:20:52,723 - ERROR - Сайт: https://zoohata.com.ua/, Ошибка: Cannot connect to host zoohata.com.ua:443 ssl:False [getaddrinfo failed], Тип ошибки: ClientConnectorDNSError
+2024-12-20 12:20:54,936 - ERROR - Сайт: https://www.santehservis.dp.ua/uk/, Ошибка: Response payload is not completed: <TransferEncodingError: 400, message='Not enough data for satisfy transfer length header.'>, Тип ошибки: ClientPayloadError
+2024-12-20 12:21:00,654 - ERROR - Сайт: https://ya.ua/, Ошибка: Response payload is not completed: <TransferEncodingError: 400, message='Not enough data for satisfy transfer length header.'>. ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None), Тип ошибки: ClientPayloadError
+2024-12-20 12:21:00,850 - ERROR - Сайт: https://crystaljobcareer.com/home-employer/, Ошибка: Response payload is not completed: <TransferEncodingError: 400, message='Not enough data for satisfy transfer length header.'>, Тип ошибки: ClientPayloadError
+2024-12-20 12:21:01,004 - ERROR - Сайт: https://fitnutrition.ua/, Ошибка: Cannot connect to host fitnutrition.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:21:01,966 - ERROR - Сайт: https://empire-host.com/, Ошибка: 'utf-8' codec can't decode byte 0xe2 in position 214: invalid continuation byte, Тип ошибки: UnicodeDecodeError
+2024-12-20 12:21:03,274 - ERROR - Сайт: https://www.finguiders.com/, Ошибка: Cannot connect to host www.finguiders.com:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:21:05,275 - ERROR - Сайт: https://griffonsocks.com.ua/, Ошибка: Response payload is not completed: <TransferEncodingError: 400, message='Not enough data for satisfy transfer length header.'>, Тип ошибки: ClientPayloadError
+2024-12-20 12:21:05,545 - ERROR - Сайт: https://mindpython.com/, Ошибка: Cannot connect to host mindpython.com:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:21:06,292 - ERROR - Сайт: https://www.gerc.ua/ua/, Ошибка: Response payload is not completed: <TransferEncodingError: 400, message='Not enough data for satisfy transfer length header.'>, Тип ошибки: ClientPayloadError
+2024-12-20 12:21:08,045 - ERROR - Сайт: https://donor.ua, Ошибка: Cannot connect to host donor.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:21:08,094 - ERROR - Сайт: https://multiplex.ua, Ошибка: Cannot connect to host multiplex.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:21:13,781 - ERROR - Сайт: https://www.kmsinet.com.ua, Ошибка: Cannot connect to host www.kmsinet.com.ua:443 ssl:False [Превышен таймаут семафора], Тип ошибки: ClientConnectorError
+2024-12-20 12:21:15,836 - ERROR - Сайт: https://www.cookeryschoolcourses.com/, Ошибка: [WinError 64] Указанное сетевое имя более недоступно, Тип ошибки: ClientOSError
+2024-12-20 12:21:18,260 - ERROR - Сайт: https://rozetka.com.ua/seller/kd-toys/goods/, Ошибка: Cannot connect to host rozetka.com.ua:443 ssl:False [Указанное сетевое имя более недоступно], Тип ошибки: ClientConnectorError
+2024-12-20 12:21:18,261 - ERROR - Сайт: https://rozetka.com.ua/seller/smart-device, Ошибка: Cannot connect to host rozetka.com.ua:443 ssl:False [Указанное сетевое имя более недоступно], Тип ошибки: ClientConnectorError
+2024-12-20 12:21:18,390 - ERROR - Сайт: https://www.apollo-school.com/, Ошибка: Server disconnected, Тип ошибки: ServerDisconnectedError
+2024-12-20 12:21:18,630 - ERROR - Сайт: https://www.study-less.com, Ошибка: Server disconnected, Тип ошибки: ServerDisconnectedError
+2024-12-20 12:21:19,102 - ERROR - Сайт: https://campaniapizzeria.choiceqr.com, Ошибка: [WinError 64] Указанное сетевое имя более недоступно, Тип ошибки: ClientOSError
+2024-12-20 12:21:19,267 - ERROR - Сайт: https://bagman.postershop.me, Ошибка: [WinError 64] Указанное сетевое имя более недоступно, Тип ошибки: ClientOSError
+2024-12-20 12:21:19,357 - ERROR - Сайт: https://flick.zone/, Ошибка: Server disconnected, Тип ошибки: ServerDisconnectedError
+2024-12-20 12:21:22,897 - ERROR - Сайт: https://riso.choiceqr.com, Ошибка: [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение, Тип ошибки: ClientOSError
+2024-12-20 12:21:23,658 - ERROR - Сайт: https://www.aigirlsonly.school, Ошибка: Server disconnected, Тип ошибки: ServerDisconnectedError
+2024-12-20 12:21:24,688 - ERROR - Сайт: http://livron.com.ua/, Ошибка: 'utf-8' codec can't decode byte 0xd0 in position 2515: invalid continuation byte, Тип ошибки: UnicodeDecodeError
+2024-12-20 12:21:25,626 - ERROR - Сайт: https://www.kvitok24.com/, Ошибка: [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение, Тип ошибки: ClientOSError
+2024-12-20 12:21:26,407 - ERROR - Сайт: https://english-spark.online/, Ошибка: Cannot connect to host english-spark.online:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:21:26,681 - ERROR - Сайт: https://www.sale-avangard-beauty.com/, Ошибка: [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение, Тип ошибки: ClientOSError
+2024-12-20 12:21:28,905 - ERROR - Сайт: https://www.newlook.ua/, Ошибка: [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение, Тип ошибки: ClientOSError
+2024-12-20 12:21:33,258 - ERROR - Сайт: https://sorrento.kr.ua/, Ошибка: Response payload is not completed: <ContentLengthError: 400, message='Not enough data for satisfy content length header.'>. ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None), Тип ошибки: ClientPayloadError
+2024-12-20 12:21:37,545 - ERROR - Сайт: https://smakota.com.ua, Ошибка: Response payload is not completed: <TransferEncodingError: 400, message='Not enough data for satisfy transfer length header.'>, Тип ошибки: ClientPayloadError
+2024-12-20 12:21:40,545 - ERROR - Сайт: https://sirka.lviv.ua, Ошибка: [WinError 64] Указанное сетевое имя более недоступно, Тип ошибки: ClientOSError
+2024-12-20 12:21:40,546 - ERROR - Сайт: http://midashall.com.ua, Ошибка: Cannot connect to host midashall.com.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:21:41,714 - ERROR - Сайт: https://skhidnytsya.apartel.ua/, Ошибка: Cannot connect to host skhidnytsya.apartel.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:22:05,433 - ERROR - Сайт: https://veselavarenychka.com.ua/, Ошибка: Cannot connect to host veselavarenychka.com.ua:443 ssl:False [None], Тип ошибки: ClientConnectorError
+2024-12-20 12:23:00,387 - ERROR - Сайт: https://photospectrum.com.ua/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,388 - ERROR - Сайт: https://deluxe.com.ua/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,388 - ERROR - Сайт: https://tosteroni.com.ua, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,389 - ERROR - Сайт: https://ecobee-plus.com/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,389 - ERROR - Сайт: https://www.add.ua/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,389 - ERROR - Сайт: https://mavi-cosmetic.com.ua/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,390 - ERROR - Сайт: https://gerbergear.com.ua, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,390 - ERROR - Сайт: https://choetech-shop.com.ua/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,391 - ERROR - Сайт: http://world-shopping.com.ua/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,391 - ERROR - Сайт: https://volter.ua/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,391 - ERROR - Сайт: https://dreame.ua, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,392 - ERROR - Сайт: https://doba.ps.me/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,392 - ERROR - Сайт: https://detmir.com.ua/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,393 - ERROR - Сайт: https://bagazhnik.ua/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,393 - ERROR - Сайт: https://www.smmandthecity.com/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,394 - ERROR - Сайт: https://bakery21-3.com, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,394 - ERROR - Сайт: https://che-bar240.choiceqr.com, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,394 - ERROR - Сайт: https://galicina.com.ua/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,395 - ERROR - Сайт: https://autocristal.in.ua/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,395 - ERROR - Сайт: https://rizno.ooo, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,396 - ERROR - Сайт: https://blokky.com.ua, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,396 - ERROR - Сайт: https://myplay.ua/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,396 - ERROR - Сайт: https://shurup.net.ua/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,397 - ERROR - Сайт: https://gradnyi-rest.choiceqr.com, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,397 - ERROR - Сайт: https://lovelyheartthings.com, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,398 - ERROR - Сайт: https://nuts-khm.com.ua/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,398 - ERROR - Сайт: https://salmon-sushi.choiceqr.com, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,399 - ERROR - Сайт: https://financialfreedommarathon.weblium.site, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,399 - ERROR - Сайт: https://ellsbraun.com/4.0/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,399 - ERROR - Сайт: https://pionna.com.ua, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,400 - ERROR - Сайт: https://staleks.ua, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,400 - ERROR - Сайт: https://kharkov.smilepark.ua/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,401 - ERROR - Сайт: https://21shop.com.ua, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,401 - ERROR - Сайт: https://bestgoods.in.ua, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,402 - ERROR - Сайт: https://avtopro.ua/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,402 - ERROR - Сайт: https://babylon.net.ua/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,403 - ERROR - Сайт: https://camping.com.ua/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,403 - ERROR - Сайт: https://notebookparts.com.ua/ua, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,404 - ERROR - Сайт: https://pesitro.com.ua/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,404 - ERROR - Сайт: https://kiosks.printhub.io/ukr/kiosks-home/locations/rivne-print-copy-center-karnauhova/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,404 - ERROR - Сайт: https://450tactical.com/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,405 - ERROR - Сайт: https://staleks.ua/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,405 - ERROR - Сайт: https://pagoti.com.ua/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,405 - ERROR - Сайт: https://kiosks.printhub.io/ukr/kiosks-home/locations/ternopil-print-copy-center-perlya/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,406 - ERROR - Сайт: https://ohmybabybook.com/ua, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,406 - ERROR - Сайт: https://tacmedicine.in.ua, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,407 - ERROR - Сайт: https://shop.beauty-brands.com.ua, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,407 - ERROR - Сайт: https://toybox.com.ua, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,407 - ERROR - Сайт: https://kooperatyva.choiceqr.com/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,408 - ERROR - Сайт: https://lunchbox.com.ua, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,408 - ERROR - Сайт: http://popilnya.net.ua/, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,408 - ERROR - Сайт: https://capuch.choiceqr.com, Ошибка: , Тип ошибки: TimeoutError
+2024-12-20 12:23:00,409 - ERROR - Сайт: https://vikashipo.com/, Ошибка: , Тип ошибки: TimeoutError
